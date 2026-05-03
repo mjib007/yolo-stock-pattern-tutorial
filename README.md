@@ -18,6 +18,9 @@ yfinance 抓股票資料 → mplfinance 畫 K 線圖 → YOLOv8 辨識圖形 →
 
 不需要訓練模型、不需要懂深度學習,**直接用別人訓練好的模型**完成圖形辨識實驗。
 
+<img src="https://scontent.frmq3-3.fna.fbcdn.net/v/t39.30808-6/690961251_10162792620682966_128958133316489642_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=13d280&_nc_ohc=onbboDMhagkQ7kNvwFLP5uj&_nc_oc=AdrrMXl-1i6XwVoNbVTdpI_X-OJSHCHcVMzx-wrx2sHuO5rlEzIEp_Cr_v5paAjoM2yEwTfiZBKWSeYxqwtrdEBC&_nc_zt=23&_nc_ht=scontent.frmq3-3.fna&_nc_gid=haSMmqm8NEJAcwMcQVXplQ&_nc_ss=7b2a8&oh=00_Af6NfMsRADxVQDHvaa5xmqnxYbsCIllRs8LWsdCG4y3qUA&oe=69FD962B" width="50%">
+
+
 ## 🚀 一鍵開啟(零安裝)
 
 點擊上方 **"Open in Colab"** 按鈕,在瀏覽器直接執行,**完全不需要在電腦上安裝任何東西**。
